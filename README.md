@@ -219,27 +219,6 @@ Ensures perpetual capital buffer.
 
 ---
 
-### Table of Contents
-
-1. Abstract
-2. Vision & Mission
-3. Market Analysis
-4. Pain Points in Educational Finance
-5. AYO Solution Overview
-6. Technical Architecture
-7. Token Design & Economics
-8. Governance Framework
-9. Off‑chain Fiat Ramps
-10. Legal & Regulatory Analysis
-11. Road‑map & Milestones
-12. Funding Rounds & Use of Proceeds
-13. Risk Factors
-14. Community & Impact Strategy
-15. Glossary
-16. References
-
----
-
 ### 2.1  Abstract
 
 AYO is an **XRPL‑native utility token** engineered to eliminate tuition barriers for West‑African students. Each AYO anchors a pro‑rata share of a **grant pool** that unlocks only when verified academic milestones are reached, ensuring capital efficiency and accountability. By blending **XRPL’s high‑throughput settlement** with programmable **on‑chain escrow hooks** and **compliant fiat ramps**, AYO converts global crypto liquidity into real‑world educational impact.
